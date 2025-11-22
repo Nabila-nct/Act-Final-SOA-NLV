@@ -1,0 +1,9 @@
+/Users/nabilagunesvela/Desktop/Act-SOA-Rest-Final/calificaciones/src/main/java/com/example/calificaciones/CalificacionesApplication.java
+/Users/nabilagunesvela/Desktop/Act-SOA-Rest-Final/calificaciones/src/main/java/com/example/calificaciones/ServletInitializer.java
+/Users/nabilagunesvela/Desktop/Act-SOA-Rest-Final/calificaciones/src/main/java/com/example/calificaciones/controllers/CalificacionesController.java
+/Users/nabilagunesvela/Desktop/Act-SOA-Rest-Final/calificaciones/src/main/java/com/example/calificaciones/models/CalificacionesModel.java
+/Users/nabilagunesvela/Desktop/Act-SOA-Rest-Final/calificaciones/src/main/java/com/example/calificaciones/models/DecimalMax.java
+/Users/nabilagunesvela/Desktop/Act-SOA-Rest-Final/calificaciones/src/main/java/com/example/calificaciones/models/DecimalMin.java
+/Users/nabilagunesvela/Desktop/Act-SOA-Rest-Final/calificaciones/src/main/java/com/example/calificaciones/models/NotBlank.java
+/Users/nabilagunesvela/Desktop/Act-SOA-Rest-Final/calificaciones/src/main/java/com/example/calificaciones/repositories/ICalificacionesRepository.java
+/Users/nabilagunesvela/Desktop/Act-SOA-Rest-Final/calificaciones/src/main/java/com/example/calificaciones/services/CalificacionesService.java

@@ -1,0 +1,9 @@
+com/example/calificaciones/models/CalificacionesModel.class
+com/example/calificaciones/models/NotBlank.class
+com/example/calificaciones/repositories/ICalificacionesRepository.class
+com/example/calificaciones/CalificacionesApplication.class
+com/example/calificaciones/services/CalificacionesService.class
+com/example/calificaciones/ServletInitializer.class
+com/example/calificaciones/models/DecimalMax.class
+com/example/calificaciones/controllers/CalificacionesController.class
+com/example/calificaciones/models/DecimalMin.class
